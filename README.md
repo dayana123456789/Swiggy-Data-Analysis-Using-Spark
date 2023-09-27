@@ -5,7 +5,7 @@ Swiggy is an online food delivary platform. This project deals with the analysis
 
 # Analysis Workflow
 Here's a brief overview of the workflow for this analysis:
-1. **Data Import**: The Swiggy dataset was initially obtained from Kaggle and later loaded into a MySQL database.
+1. **Data Import**: The Swiggy dataset was initially obtained from Kaggle https://www.kaggle.com/datasets/abhijitdahatonde/swiggy-restuarant-dataset/dataand later loaded into a MySQL database.
 2. **MySQL Integration**: A Python connector for MySQL was used to establish a connection to the MySQL database. This allowed for seamless retrieval of the dataset for further analysis.
 3. **PySpark Analysis**: PySpark, a Python API for Apache Spark, was employed to analyze the Swiggy dataset. PySpark provides the capability to perform distributed data processing tasks, making it an ideal choice for handling large-scale datasets.
 
