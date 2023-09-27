@@ -36,7 +36,9 @@ Here's a brief overview of the workflow for this analysis:
   
 ![__results___21_0](https://github.com/dayana123456789/Swiggy-Data-Analysis-Using-Spark/assets/99783461/7674e05a-a6ed-47da-a6d6-1887240114e7)
 
-This project showcases the use of PySpark and MySQL for the analysis of the Swiggy restaurant dataset. It offers valuable insights into the restaurant landscape on Swiggy, including pricing, ratings, and food types. Feel free to explore the provided notebook for detailed analysis and insights.
+This project showcases the use of PySpark and MySQL for the analysis of the Swiggy restaurant dataset. It offers valuable insights into the restaurant landscape on Swiggy, including pricing, ratings, and food types. 
+
+Feel free to explore the provided notebook for detailed analysis and insights.
 
 For any questions or feedback, please don't hesitate to contact me.
 
